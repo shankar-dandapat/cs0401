@@ -2,24 +2,24 @@
 
 A submission sheet must be turned in with _each_ assignment.
 
-Name:
+Name: Shankar Dandapat
 
-Assignment #:
+Assignment #: 1
 
-GitHub username:
+GitHub username: shankar-dandapat
 
-URL of repository:
+URL of repository: https://github.com/shankar-dandapat/CS401_Assignments
 
-Lab Instructor:
+Lab Instructor: Akila Amaratunga
 
-Lab Date/Time:
+Lab Date/Time: Fri 9am @ Sennott RM 6110
 
-Date turned in:
+Date turned in: Monday, February 1st, 2016
 
-Does program compile without error?
+Does program compile without error? Yes
 
 
-If not, what is/are the error(s)?
+If not, what is/are the error(s)? N/A
 
 
 
